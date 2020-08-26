@@ -1,0 +1,31 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/34/47/67/344767dc4143958384e8c92a459f2be5.png');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.content {
+    display: block;
+    margin: auto;
+    width: max-content;
+}
+
+input { 
+    background: #f7f8fa;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+    font-size: 15px;
+    width: 300px;
+}
+
+.select {
+    text-align: center;
+}
